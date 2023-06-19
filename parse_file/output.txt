@@ -1,0 +1,2991 @@
+
+
+======= bert_test_8 =======
+auto polarity on, data polarity 0
+
+--- 50M
+	ch0
+		pcmout_bert: 5006925129 bits/0 errs
+		linetest_in: 5071234135 bits/0 errs, sync pass, inverted & noninverted (seems problematic)
+	ch1
+		pcmout_bert: 5010251436 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 5011268588 bits/0 errs
+		linetest_in: 5073158458 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 5014787496 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 5015997707 bits/0 errs
+		linetest_in: 5075377944 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 5019329812 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 5020859359 bits/0 errs
+		linetest_in: 5077727445 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 5024153804 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 5024922742 bits/0 errs
+		linetest_in: 5079430160 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 5028581976 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 5030804260 bits/0 errs
+		linetest_in: 5082728015 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 5033940013 bits/0 errs
+		linetest_in: --
+
+--- 45M
+	ch0
+		pcmout_bert: 4506155350 bits/0 errs
+		linetest_in: 4562326471 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 4508398402 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 4510670271 bits/0 errs
+		linetest_in: 4564913540 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 4512894008 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 4515055581 bits/0 errs
+		linetest_in: 4567216879 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 4517339016 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 4519742001 bits/0 errs
+		linetest_in: 4569723815 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 4522126119 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 4524166583 bits/0 errs
+		linetest_in: 4572092782 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 4526204812 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 4528382189 bits/0 errs
+		linetest_in: 4574572285 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 4530520107 bits/0 errs
+		linetest_in: --
+
+--- 40M
+	ch0
+		pcmout_bert: 4005668866 bits/0 errs
+		linetest_in: 4051767169 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 4007346559 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 4009254170 bits/0 errs
+		linetest_in: 4053509032 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 4011168165 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 4013000949 bits/0 errs
+		linetest_in: 4055421145 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 4014586029 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 4016340053 bits/0 errs
+		linetest_in: 4057301410 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 4018018164 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 4020143491 bits/0 errs
+		linetest_in: 4059132267 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 4021973671 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 4023962174 bits/0 errs
+		linetest_in: 4061241708 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 4025447220 bits/0 errs
+		linetest_in: --
+
+--- 30M
+	ch0
+		pcmout_bert: 3004074449 bits/0 errs
+		linetest_in: 3033028373 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 3004976187 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 3006103278 bits/0 errs
+		linetest_in: 3034249568 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 3007080127 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 3008224039 bits/0 errs
+		linetest_in: 3035511732 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 3009364968 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 3010554965 bits/0 errs
+		linetest_in: 3036624152 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 3011487122 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 3012699773 bits/0 errs
+		linetest_in: 3037687135 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 3013712325 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 3014940954 bits/0 errs
+		linetest_in: 3038805553 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 3016056981 bits/0 errs
+		linetest_in: --
+
+--- 20M
+	ch0
+		pcmout_bert: 2003154511 bits/0 errs
+		linetest_in: 2024871858 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 2003683845 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 2004320844 bits/0 errs
+		linetest_in: 2026799481 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 2004848777 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 2005620354 bits/0 errs
+		linetest_in: 2028949354 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 2006295818 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 2006982947 bits/0 errs
+		linetest_in: 2030933963 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 2007533170 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 2008235062 bits/0 errs
+		linetest_in: 2032642579 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 2008965299 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 2010103572 bits/0 errs
+		linetest_in: 2034291226 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 2011250959 bits/0 errs
+		linetest_in: --
+
+--- 10M
+	ch0
+		pcmout_bert: 1001541123 bits/0 errs
+		linetest_in: 1010988107 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 1001859750 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 1002223507 bits/0 errs
+		linetest_in: 1011326878 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 1002585826 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 1003001305 bits/0 errs
+		linetest_in: 1011654077 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 1003381626 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 1003811963 bits/0 errs
+		linetest_in: 1011961535 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 1004153892 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 1004638235 bits/0 errs
+		linetest_in: 1012242997 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 1004952572 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 1005368582 bits/0 errs
+		linetest_in: 1012507934 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 1005778255 bits/0 errs
+		linetest_in: --
+
+--- 5M
+	ch0
+		pcmout_bert: 500554192 bits/0 errs
+		linetest_in: 503862874 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 500631796 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 500780425 bits/0 errs
+		linetest_in: 503992779 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 500880008 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 501026617 bits/0 errs
+		linetest_in: 504116773 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 501116205 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 501264934 bits/0 errs
+		linetest_in: 504260957 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 501357796 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 501517969 bits/0 errs
+		linetest_in: 504393344 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 501616241 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 501790360 bits/0 errs
+		linetest_in: 504523234 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 501886547 bits/0 errs
+		linetest_in: --
+
+--- 1M
+	ch0
+		pcmout_bert: 100247640 bits/0 errs
+		linetest_in: 100756706 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 100198930 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 100291625 bits/0 errs
+		linetest_in: 100777122 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 100243449 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 100311985 bits/0 errs
+		linetest_in: 100793491 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 100286558 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 100375165 bits/0 errs
+		linetest_in: 100814988 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 100334500 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 100414509 bits/0 errs
+		linetest_in: 100828601 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 100372621 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 100442485 bits/0 errs
+		linetest_in: 100848782 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 100416483 bits/0 errs
+		linetest_in: --
+
+--- 500000
+	ch0
+		pcmout_bert: 50047673 bits/0 errs
+		linetest_in: 50325884 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 50057924 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 50069403 bits/0 errs
+		linetest_in: 50336043 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 50079661 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 50091163 bits/0 errs
+		linetest_in: 50346028 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 50101669 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 50112992 bits/0 errs
+		linetest_in: 50355588 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 50125512 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 50136904 bits/0 errs
+		linetest_in: 50365301 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 50146807 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 50157973 bits/0 errs
+		linetest_in: 50375281 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 50167724 bits/0 errs
+		linetest_in: --
+
+--- 250000
+	ch0
+		pcmout_bert: 25022687 bits/0 errs
+		linetest_in: 25157840 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 25028589 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 25148116 bits/0 errs
+		linetest_in: 25162338 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 25038319 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 25043944 bits/0 errs
+		linetest_in: 25168429 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 25049314 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 25053472 bits/0 errs
+		linetest_in: 25173033 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 25058917 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 25064444 bits/0 errs
+		linetest_in: 25178088 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 25069241 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 25074229 bits/0 errs
+		linetest_in: 25182532 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 25078916 bits/0 errs
+		linetest_in: --
+
+--- 100000
+	ch0
+		pcmout_bert: 10008651 bits/320 errs
+		linetest_in: 10063583 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 10011632 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 9918584 bits/0 errs
+		linetest_in: 10064892 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 10014925 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 10017137 bits/0 errs
+		linetest_in: 10067492 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 10019846 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 10020912 bits/0 errs
+		linetest_in: 10069030 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 10023287 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 10025045 bits/0 errs
+		linetest_in: 10071850 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 10028370 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 10015377 bits/1358 errs
+		linetest_in: 10073613 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 10032392 bits/0 errs
+		linetest_in: --
+
+
+======= bert_test_7 =======
+auto polarity on, data polarity 0
+
+--- 50M
+	ch0
+		pcmout_bert: 4948181296 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 4951966698 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 4953312884 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 4957387914 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 4958936499 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 4962874339 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 4964580591 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 4968275556 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 4970178349 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 4974147486 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 4975461601 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 4979081260 bits/0 errs
+		linetest_in: --
+
+--- 45M
+	ch0
+		pcmout_bert: 4453847008 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 4455761130 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 4457699225 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 4459793594 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 4461843862 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 4463975762 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 4465954070 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 4468224770 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 4470310330 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 4472535705 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 4474566156 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 4476586184 bits/0 errs
+		linetest_in: --
+
+--- 40M
+	ch0
+		pcmout_bert: 3959597750 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 3961198073 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 3962858266 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 3964432531 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 3966064627 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 3967804601 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 3969450810 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 3971031323 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 3972665067 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 3974409357 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 3976066607 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 3977956954 bits/0 errs
+		linetest_in: --
+
+--- 30M
+	ch0
+		pcmout_bert: 2969477443 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 2970464580 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 2971664146 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 2972655127 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 2973751038 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 2974717258 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 2975920168 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 2976976199 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 2978416831 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 2979303986 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 2980385696 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 2981436143 bits/0 errs
+		linetest_in: --
+
+--- 20M
+	ch0
+		pcmout_bert: 1980672879 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 1981898793 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 1983633769 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 1984313806 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 1984960774 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 1985517196 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 1986493783 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 1987119281 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 1988150782 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 1989550496 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 1990661073 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 1991454114 bits/0 errs
+		linetest_in: --
+
+--- 10M
+	ch0
+		pcmout_bert: 989633532 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 990009668 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 990478648 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 990837534 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 991204423 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 991477169 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 991867177 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 992087155 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 992410662 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 992673059 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 992963910 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 993245612 bits/0 errs
+		linetest_in: --
+
+--- 5M
+	ch0
+		pcmout_bert: 494732297 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 494831986 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 494984920 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 495079243 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 495251099 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 495338576 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 495503461 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 495593124 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 495786250 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 495876890 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 496059173 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 496154507 bits/0 errs
+		linetest_in: --
+
+--- 1M
+	ch0
+		pcmout_bert: 99089466 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 99039398 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 99127976 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 99083984 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 99147328 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 99114310 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 99192865 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 99167803 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 99236749 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 99209068 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 99276097 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 99242945 bits/0 errs
+		linetest_in: --
+
+--- 500000
+	ch0
+		pcmout_bert: 49465915 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 49479278 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 49489999 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 49499504 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 49510526 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 49520308 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 49531724 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 49541448 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 49552591 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 49562412 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 49569444 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 49583362 bits/0 errs
+		linetest_in: --
+
+--- 250000
+	ch0
+		pcmout_bert: 24869564 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 24738657 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 24743234 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 24748387 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 24753405 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 24758890 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 24763859 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 24769199 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 24774310 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 24779382 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 24781160 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 24789508 bits/0 errs
+		linetest_in: --
+
+--- 100000
+	ch0
+		pcmout_bert: 9769388 bits/320 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 9895769 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 9896708 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 9899129 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 9901031 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 9902880 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 9905303 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 9907171 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 9923589 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 9930249 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 9912642 bits/1344 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 9916192 bits/0 errs
+		linetest_in: --
+
+
+======= bert_test_8 PN6 =======
+auto polarity on, data polarity 0
+
+--- 50M
+	ch0
+		pcmout_bert: 5008011698 bits/0 errs
+		linetest_in: 5071518212 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 5010591948 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 5012166963 bits/0 errs
+		linetest_in: 5073726683 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 5016088034 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 5017554592 bits/0 errs
+		linetest_in: 5076229788 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 5021443876 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 5023018749 bits/0 errs
+		linetest_in: 5078598422 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 5026625188 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 5027835916 bits/11322 errs
+		linetest_in: 5080812521 bits/11322 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 5031368112 bits/11322 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 5033263815 bits/0 errs
+		linetest_in: 5083292885 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 5036927093 bits/0 errs
+		linetest_in: --
+
+--- 45M
+	ch0
+		pcmout_bert: 4506675804 bits/0 errs
+		linetest_in: 4563811280 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 4509143860 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 4511350064 bits/0 errs
+		linetest_in: 4566438169 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 4513725809 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 4515946407 bits/0 errs
+		linetest_in: 4569000721 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 4517984830 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 4520203755 bits/0 errs
+		linetest_in: 4571476316 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 4522399359 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 4524469068 bits/0 errs
+		linetest_in: 4573620509 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 4526813158 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 4529034576 bits/0 errs
+		linetest_in: 4575628843 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 4531171641 bits/0 errs
+		linetest_in: --
+
+--- 40M
+	ch0
+		pcmout_bert: 4006045823 bits/0 errs
+		linetest_in: 4047385147 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 4007430725 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 4009245753 bits/0 errs
+		linetest_in: 4049173203 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 4010834843 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 4012323062 bits/0 errs
+		linetest_in: 4050929035 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 4013857137 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 4015982452 bits/0 errs
+		linetest_in: 4052531117 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 4017533565 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 4019045306 bits/0 errs
+		linetest_in: 4054315589 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 4020708671 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 4022362041 bits/0 errs
+		linetest_in: 4056310604 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 4023966166 bits/0 errs
+		linetest_in: --
+
+--- 30M
+	ch0
+		pcmout_bert: 3003828120 bits/0 errs
+		linetest_in: 3032903710 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 3004833710 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 3006102442 bits/0 errs
+		linetest_in: 3034232560 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 3007003469 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 3008259709 bits/0 errs
+		linetest_in: 3035383995 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 3009244567 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 3010410667 bits/0 errs
+		linetest_in: 3036513316 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 3011393842 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 3012816250 bits/0 errs
+		linetest_in: 3037658676 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 3013845910 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 3014971207 bits/0 errs
+		linetest_in: 3038903698 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 3015903002 bits/0 errs
+		linetest_in: --
+
+--- 20M
+	ch0
+		pcmout_bert: 2003281171 bits/0 errs
+		linetest_in: 2038676986 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 2005008034 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 2006224083 bits/0 errs
+		linetest_in: 2039863082 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 2007071373 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 2008269657 bits/0 errs
+		linetest_in: 2041836129 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 2009088939 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 2010540148 bits/0 errs
+		linetest_in: 2043606906 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 2011796609 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 2013544564 bits/0 errs
+		linetest_in: 2044978762 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 2014713697 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 2015993366 bits/0 errs
+		linetest_in: 2046433733 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 2017562746 bits/0 errs
+		linetest_in: --
+
+--- 10M
+	ch0
+		pcmout_bert: 1001419203 bits/0 errs
+		linetest_in: 1010659324 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 1001725080 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 1002186862 bits/0 errs
+		linetest_in: 1011079665 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 1002419714 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 1002831967 bits/0 errs
+		linetest_in: 1011514083 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 1003072193 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 1003553836 bits/0 errs
+		linetest_in: 1011906691 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 1003867899 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 1004384661 bits/0 errs
+		linetest_in: 1012330826 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 1004639209 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 1005101446 bits/0 errs
+		linetest_in: 1012763988 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 1005346237 bits/0 errs
+		linetest_in: --
+
+--- 5M
+	ch0
+		pcmout_bert: 500548578 bits/0 errs
+		linetest_in: 503933156 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 500638077 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 500801045 bits/0 errs
+		linetest_in: 504055932 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 500899719 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 501066076 bits/0 errs
+		linetest_in: 504180511 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 501170770 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 501339416 bits/0 errs
+		linetest_in: 504298340 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 501452315 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 501618103 bits/0 errs
+		linetest_in: 504419414 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 501721283 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 501892066 bits/0 errs
+		linetest_in: 504541077 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 501990092 bits/0 errs
+		linetest_in: --
+
+--- 1M
+	ch0
+		pcmout_bert: 100225155 bits/0 errs
+		linetest_in: 100743774 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 100195542 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 100275689 bits/0 errs
+		linetest_in: 100760401 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 100234269 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 100326682 bits/0 errs
+		linetest_in: 100785676 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 100282922 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 100354934 bits/0 errs
+		linetest_in: 100803591 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 100323196 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 100398776 bits/0 errs
+		linetest_in: 100824270 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 100366642 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 100459881 bits/0 errs
+		linetest_in: 100848911 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 100413574 bits/0 errs
+		linetest_in: --
+
+--- 500000
+	ch0
+		pcmout_bert: 50047192 bits/0 errs
+		linetest_in: 50319171 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 50057386 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 50068304 bits/0 errs
+		linetest_in: 50329172 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 50078332 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 50089271 bits/0 errs
+		linetest_in: 50339037 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 50098918 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 50109842 bits/0 errs
+		linetest_in: 50348991 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 50119468 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 50130390 bits/0 errs
+		linetest_in: 50358897 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 50140072 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 50151104 bits/0 errs
+		linetest_in: 50369118 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 50161042 bits/0 errs
+		linetest_in: --
+
+--- 250000
+	ch0
+		pcmout_bert: 25022605 bits/0 errs
+		linetest_in: 25157561 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 25028157 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 25033751 bits/0 errs
+		linetest_in: 25163055 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 25038996 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 25043168 bits/0 errs
+		linetest_in: 25167790 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 25049065 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 25051690 bits/0 errs
+		linetest_in: 25172714 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 25059307 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 25063579 bits/0 errs
+		linetest_in: 25177621 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 25069461 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 25073746 bits/0 errs
+		linetest_in: 25182413 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 25079423 bits/0 errs
+		linetest_in: --
+
+--- 100000
+	ch0
+		pcmout_bert: 10009331 bits/320 errs
+		linetest_in: 10061254 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: 10010442 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 10013131 bits/0 errs
+		linetest_in: 10063726 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: 10015206 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 10016297 bits/0 errs
+		linetest_in: 10066503 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: 10019852 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 10020196 bits/0 errs
+		linetest_in: 10068135 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: 10023520 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 10021567 bits/0 errs
+		linetest_in: 10069224 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: 10026744 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 10028227 bits/1309 errs
+		linetest_in: 10071551 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: 10030935 bits/0 errs
+		linetest_in: --
+
+
+======= bert_test_7 PN6 =======
+auto polarity on, data polarity 0
+
+--- 50M
+	ch0
+		pcmout_bert: 4946957919 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 4950958116 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 4952625680 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 4956221825 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 4957493057 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 4961107105 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 4962557093 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 4966289349 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 4967594032 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 4971111986 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 4972567061 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 4976597258 bits/0 errs
+		linetest_in: --
+
+--- 45M
+	ch0
+		pcmout_bert: 4455097592 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 4457365918 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 4459218190 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 4461466150 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 4463434843 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 4465334677 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 4467351886 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 4469396123 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 4471299818 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 4473384808 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 4475273734 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 4477269619 bits/0 errs
+		linetest_in: --
+
+--- 40M
+	ch0
+		pcmout_bert: 3959846454 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 3961252982 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 3962843989 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 3964602594 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 3966211465 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 3967938008 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 3969782222 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 3971703203 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 3973986483 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 3975783331 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 3977749119 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 3979762161 bits/0 errs
+		linetest_in: --
+
+--- 30M
+	ch0
+		pcmout_bert: 2969403556 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 2970730111 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 2972215969 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 2973172735 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 2974336277 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 2975444357 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 2976740333 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 2977769767 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 2978965822 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 2980019381 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 2981215330 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 2982330119 bits/0 errs
+		linetest_in: --
+
+--- 20M
+	ch0
+		pcmout_bert: 1983644014 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 1985616667 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 1987435926 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 1989475476 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 1991034572 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 1992293286 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 1993359782 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 1995120115 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 1996392098 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 1997157779 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 1998404757 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 1999538788 bits/0 errs
+		linetest_in: --
+
+--- 10M
+	ch0
+		pcmout_bert: 989587939 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 989865150 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 990222452 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 990484804 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 990834048 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 991085083 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 991425917 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 991667897 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 992003588 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 992308907 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 992705034 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 992983189 bits/0 errs
+		linetest_in: --
+
+--- 5M
+	ch0
+		pcmout_bert: 494761832 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 494862881 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 495046862 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 495138778 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 495312977 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 495406079 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 495582051 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 495680084 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 495865040 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 495970673 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 496131777 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 496240725 bits/0 errs
+		linetest_in: --
+
+--- 1M
+	ch0
+		pcmout_bert: 99066552 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 99025258 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 99106837 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 99070460 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 99149420 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 99116965 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 99181274 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 99162035 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 99231584 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 99205288 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 99283869 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 99251117 bits/0 errs
+		linetest_in: --
+
+--- 500000
+	ch0
+		pcmout_bert: 49469491 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 49479536 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 49490538 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 49500095 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 49510804 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 49520392 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 49531242 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 49540637 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 49551038 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 49561104 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 49769443 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 49581336 bits/0 errs
+		linetest_in: --
+
+--- 250000
+	ch0
+		pcmout_bert: 24733045 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 24738965 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 24743300 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 24749170 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 24753496 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 24759061 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 24763843 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 24769642 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 24774146 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 24779459 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 24783974 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 24789375 bits/0 errs
+		linetest_in: --
+
+--- 100000
+	ch0
+		pcmout_bert: 9894265 bits/616 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 9895388 bits/0 errs
+		linetest_in: --
+	ch2
+		pcmout_bert: 9897159 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 9899212 bits/0 errs
+		linetest_in: --
+	ch4
+		pcmout_bert: 9919973 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 9928037 bits/0 errs
+		linetest_in: --
+	ch6
+		pcmout_bert: 9904644 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 9907988 bits/0 errs
+		linetest_in: --
+	ch8
+		pcmout_bert: 9908762 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 9910744 bits/0 errs
+		linetest_in: --
+	ch10
+		pcmout_bert: 9728599 bits/1177 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 9915515 bits/0 errs
+		linetest_in: --
+
+
+======= bert_test_8r =======
+auto polarity on, data polarity 0
+
+--- 50M
+	ch0
+		pcmout_bert: 5006883294 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 5008840607 bits/0 errs
+		linetest_in: 5073220390 bits/0 errs, sync pass, noninverted
+	ch2
+		pcmout_bert: 5012895984 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 5014596339 bits/0 errs
+		linetest_in: 5075718299 bits/0 errs, sync pass, noninverted
+	ch4
+		pcmout_bert: 5018206849 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 5020028755 bits/0 errs
+		linetest_in: 5078262796 bits/0 errs, sync pass, noninverted
+	ch6
+		pcmout_bert: 5023623987 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 5025134928 bits/0 errs
+		linetest_in: 5080543325 bits/0 errs, sync pass, noninverted
+	ch8
+		pcmout_bert: 5028734436 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 5030429515 bits/0 errs
+		linetest_in: 5082700492 bits/0 errs, sync pass, noninverted
+	ch10
+		pcmout_bert: 5033991250 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 5036410875 bits/0 errs
+		linetest_in: 5085408990 bits/0 errs, sync pass, noninverted
+
+--- 45M
+	ch0
+		pcmout_bert: 4507219018 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 4509360483 bits/0 errs
+		linetest_in: 4562843170 bits/0 errs, sync pass, noninverted
+	ch2
+		pcmout_bert: 4511595017 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 4513614274 bits/0 errs
+		linetest_in: 4565415984 bits/0 errs, sync pass, noninverted
+	ch4
+		pcmout_bert: 4515842203 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 4518083582 bits/0 errs
+		linetest_in: 4568037075 bits/0 errs, sync pass, noninverted
+	ch6
+		pcmout_bert: 4520489819 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 4522341095 bits/0 errs
+		linetest_in: 4570413454 bits/0 errs, sync pass, noninverted
+	ch8
+		pcmout_bert: 4524632052 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 4526900047 bits/0 errs
+		linetest_in: 4572861921 bits/0 errs, sync pass, noninverted
+	ch10
+		pcmout_bert: 4529399366 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 4531786214 bits/0 errs
+		linetest_in: 4575166821 bits/0 errs, sync pass, noninverted
+
+--- 40M
+	ch0
+		pcmout_bert: 4006621914 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 4008644267 bits/0 errs
+		linetest_in: 4052245809 bits/0 errs, sync pass, noninverted
+	ch2
+		pcmout_bert: 4010238244 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 4011750816 bits/0 errs
+		linetest_in: 4054327572 bits/0 errs, sync pass, noninverted
+	ch4
+		pcmout_bert: 4013252899 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 4015007382 bits/0 errs
+		linetest_in: 4056464816 bits/0 errs, sync pass, noninverted
+	ch6
+		pcmout_bert: 4016595508 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 4018537866 bits/0 errs
+		linetest_in: 4058186616 bits/0 errs, sync pass, noninverted
+	ch8
+		pcmout_bert: 4019978073 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 4021596163 bits/0 errs
+		linetest_in: 4059749475 bits/0 errs, sync pass, noninverted
+	ch10
+		pcmout_bert: 4023374720 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 4025550010 bits/0 errs
+		linetest_in: 4061748644 bits/0 errs, sync pass, noninverted
+
+--- 30M
+	ch0
+		pcmout_bert: 3003813996 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 3005108306 bits/0 errs
+		linetest_in: 3031983866 bits/0 errs, sync pass, noninverted
+	ch2
+		pcmout_bert: 3006068743 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 3007254171 bits/0 errs
+		linetest_in: 3033022876 bits/0 errs, sync pass, noninverted
+	ch4
+		pcmout_bert: 3008189094 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 3009385261 bits/0 errs
+		linetest_in: 3034184187 bits/0 errs, sync pass, noninverted
+	ch6
+		pcmout_bert: 3010427499 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 3011470977 bits/0 errs
+		linetest_in: 3035399292 bits/0 errs, sync pass, noninverted
+	ch8
+		pcmout_bert: 3012419450 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 3013691123 bits/0 errs
+		linetest_in: 3036445390 bits/0 errs, sync pass, noninverted
+	ch10
+		pcmout_bert: 3014677917 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 3015904495 bits/0 errs
+		linetest_in: 3037514953 bits/0 errs, sync pass, noninverted
+
+--- 20M
+	ch0
+		pcmout_bert: 2004429781 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 2005836057 bits/0 errs
+		linetest_in: 2032306075 bits/0 errs, sync pass, noninverted
+	ch2
+		pcmout_bert: 2006822793 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 2007666899 bits/0 errs
+		linetest_in: 2033919131 bits/0 errs, sync pass, noninverted
+	ch4
+		pcmout_bert: 2008815857 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 2009460367 bits/0 errs
+		linetest_in: 2035700754 bits/0 errs, sync pass, noninverted
+	ch6
+		pcmout_bert: 2010256744 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 2011082514 bits/0 errs
+		linetest_in: 2037115287 bits/0 errs, sync pass, noninverted
+	ch8
+		pcmout_bert: 2011932660 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 2012792240 bits/0 errs
+		linetest_in: 2039041753 bits/0 errs, sync pass, noninverted
+	ch10
+		pcmout_bert: 2013415396 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 2014607512 bits/0 errs
+		linetest_in: 2040854651 bits/0 errs, sync pass, noninverted
+
+--- 10M
+	ch0
+		pcmout_bert: 1001581310 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 1001984587 bits/0 errs
+		linetest_in: 1009811979 bits/0 errs, sync pass, noninverted
+	ch2
+		pcmout_bert: 1002242391 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 1002686659 bits/0 errs
+		linetest_in: 1010100918 bits/0 errs, sync pass, noninverted
+	ch4
+		pcmout_bert: 1002930238 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 1003328566 bits/0 errs
+		linetest_in: 1010402647 bits/0 errs, sync pass, noninverted
+	ch6
+		pcmout_bert: 1003520731 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 1003905496 bits/0 errs
+		linetest_in: 1010698307 bits/0 errs, sync pass, noninverted
+	ch8
+		pcmout_bert: 1004135054 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 1004621439 bits/0 errs
+		linetest_in: 1011044121 bits/0 errs, sync pass, noninverted
+	ch10
+		pcmout_bert: 1004821937 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 1005244583 bits/0 errs
+		linetest_in: 1011337413 bits/0 errs, sync pass, noninverted
+
+--- 5M
+	ch0
+		pcmout_bert: 500521713 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 500676339 bits/0 errs
+		linetest_in: 503887636 bits/0 errs, sync pass, noninverted
+	ch2
+		pcmout_bert: 500776664 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 500938444 bits/0 errs
+		linetest_in: 504002616 bits/0 errs, sync pass, noninverted
+	ch4
+		pcmout_bert: 501037706 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 501194949 bits/0 errs
+		linetest_in: 504118528 bits/0 errs, sync pass, noninverted
+	ch6
+		pcmout_bert: 501298860 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 501467731 bits/0 errs
+		linetest_in: 504239192 bits/0 errs, sync pass, noninverted
+	ch8
+		pcmout_bert: 501564122 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 501735963 bits/0 errs
+		linetest_in: 504357990 bits/0 errs, sync pass, noninverted
+	ch10
+		pcmout_bert: 501837193 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 501998473 bits/0 errs
+		linetest_in: 504476860 bits/0 errs, sync pass, noninverted
+
+--- 1M
+	ch0
+		pcmout_bert: 100172932 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 100247925 bits/0 errs
+		linetest_in: 100732189 bits/0 errs, sync pass, noninverted
+	ch2
+		pcmout_bert: 100219437 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 100309389 bits/0 errs
+		linetest_in: 100756500 bits/0 errs, sync pass, noninverted
+	ch4
+		pcmout_bert: 100250769 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 100329471 bits/0 errs
+		linetest_in: 100765107 bits/0 errs, sync pass, noninverted
+	ch6
+		pcmout_bert: 100297314 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 100388887 bits/0 errs
+		linetest_in: 100789322 bits/0 errs, sync pass, noninverted
+	ch8
+		pcmout_bert: 100343682 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 100430125 bits/0 errs
+		linetest_in: 100813777 bits/0 errs, sync pass, noninverted
+	ch10
+		pcmout_bert: 100389472 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 100479560 bits/0 errs
+		linetest_in: 100838374 bits/0 errs, sync pass, noninverted
+
+--- 500000
+	ch0
+		pcmout_bert: 50047226 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 50058281 bits/0 errs
+		linetest_in: 50315644 bits/0 errs, sync pass, noninverted
+	ch2
+		pcmout_bert: 50067902 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 50078954 bits/0 errs
+		linetest_in: 50325535 bits/0 errs, sync pass, noninverted
+	ch4
+		pcmout_bert: 50088802 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 50099437 bits/0 errs
+		linetest_in: 50335784 bits/0 errs, sync pass, noninverted
+	ch6
+		pcmout_bert: 50109138 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 50119927 bits/0 errs
+		linetest_in: 50345880 bits/0 errs, sync pass, noninverted
+	ch8
+		pcmout_bert: 50129713 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 50140575 bits/0 errs
+		linetest_in: 50355756 bits/0 errs, sync pass, noninverted
+	ch10
+		pcmout_bert: 50150177 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 50160835 bits/0 errs
+		linetest_in: 50366027 bits/0 errs, sync pass, noninverted
+
+--- 250000
+	ch0
+		pcmout_bert: 25023206 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 25028232 bits/0 errs
+		linetest_in: 25161842 bits/0 errs, sync pass, noninverted
+	ch2
+		pcmout_bert: 25033789 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 25038539 bits/0 errs
+		linetest_in: 25167245 bits/0 errs, sync pass, noninverted
+	ch4
+		pcmout_bert: 25044433 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 25133680 bits/0 errs
+		linetest_in: 25172787 bits/0 errs, sync pass, noninverted
+	ch6
+		pcmout_bert: 25054846 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 25060164 bits/0 errs
+		linetest_in: 25177922 bits/0 errs, sync pass, noninverted
+	ch8
+		pcmout_bert: 25065558 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 25070057 bits/0 errs
+		linetest_in: 25183282 bits/0 errs, sync pass, noninverted
+	ch10
+		pcmout_bert: 25076014 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 25080462 bits/0 errs
+		linetest_in: 25188476 bits/0 errs, sync pass, noninverted
+
+--- 100000
+	ch0
+		pcmout_bert: 10009375 bits/0 errs
+		linetest_in: --
+	ch1
+		pcmout_bert: 10011162 bits/0 errs
+		linetest_in: 10062409 bits/0 errs, sync pass, noninverted
+	ch2
+		pcmout_bert: 10013293 bits/0 errs
+		linetest_in: --
+	ch3
+		pcmout_bert: 10014629 bits/0 errs
+		linetest_in: 10064410 bits/0 errs, sync pass, noninverted
+	ch4
+		pcmout_bert: 10017678 bits/0 errs
+		linetest_in: --
+	ch5
+		pcmout_bert: 9957068 bits/640 errs
+		linetest_in: 10066498 bits/0 errs, sync pass, noninverted
+	ch6
+		pcmout_bert: 10021724 bits/0 errs
+		linetest_in: --
+	ch7
+		pcmout_bert: 10022547 bits/0 errs
+		linetest_in: 10068609 bits/0 errs, sync pass, noninverted
+	ch8
+		pcmout_bert: 10025012 bits/0 errs
+		linetest_in: --
+	ch9
+		pcmout_bert: 10028131 bits/0 errs
+		linetest_in: 10069708 bits/0 errs, sync pass, noninverted
+	ch10
+		pcmout_bert: 10029207 bits/0 errs
+		linetest_in: --
+	ch11
+		pcmout_bert: 10031026 bits/1342 errs
+		linetest_in: 10071843 bits/0 errs, sync pass, noninverted
+
+
+======= bert_test_6 =======
+auto polarity on, data polarity 1
+
+--- 50M
+	ch0
+		pcmout_bert: --
+		linetest_in: 2502665854 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: --
+		linetest_in: --
+	ch2
+		pcmout_bert: --
+		linetest_in: 2503148729 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: --
+		linetest_in: --
+	ch4
+		pcmout_bert: --
+		linetest_in: 2503627194 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: --
+		linetest_in: --
+	ch6
+		pcmout_bert: --
+		linetest_in: 2504108247 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: --
+		linetest_in: --
+	ch8
+		pcmout_bert: --
+		linetest_in: 2504590062 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: --
+		linetest_in: --
+	ch10
+		pcmout_bert: --
+		linetest_in: 2505064063 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: --
+		linetest_in: --
+
+--- 45M
+	ch0
+		pcmout_bert: --
+		linetest_in: 2502674214 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: --
+		linetest_in: --
+	ch2
+		pcmout_bert: --
+		linetest_in: 2503150119 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: --
+		linetest_in: --
+	ch4
+		pcmout_bert: --
+		linetest_in: 2503622894 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: --
+		linetest_in: --
+	ch6
+		pcmout_bert: --
+		linetest_in: 2504108527 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: --
+		linetest_in: --
+	ch8
+		pcmout_bert: --
+		linetest_in: 2504586510 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: --
+		linetest_in: --
+	ch10
+		pcmout_bert: --
+		linetest_in: 2505086425 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: --
+		linetest_in: --
+
+--- 40M
+	ch0
+		pcmout_bert: --
+		linetest_in: 2502693054 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: --
+		linetest_in: --
+	ch2
+		pcmout_bert: --
+		linetest_in: 2503191771 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: --
+		linetest_in: --
+	ch4
+		pcmout_bert: --
+		linetest_in: 2503678082 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: --
+		linetest_in: --
+	ch6
+		pcmout_bert: --
+		linetest_in: 2504173431 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: --
+		linetest_in: --
+	ch8
+		pcmout_bert: --
+		linetest_in: 2504672308 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: --
+		linetest_in: --
+	ch10
+		pcmout_bert: --
+		linetest_in: 2505181223 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: --
+		linetest_in: --
+
+--- 30M
+	ch0
+		pcmout_bert: --
+		linetest_in: 2502676056 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: --
+		linetest_in: --
+	ch2
+		pcmout_bert: --
+		linetest_in: 2503148866 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: --
+		linetest_in: --
+	ch4
+		pcmout_bert: --
+		linetest_in: 2503624809 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: --
+		linetest_in: --
+	ch6
+		pcmout_bert: --
+		linetest_in: 2504102839 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: --
+		linetest_in: --
+	ch8
+		pcmout_bert: --
+		linetest_in: 2504574045 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: --
+		linetest_in: --
+	ch10
+		pcmout_bert: --
+		linetest_in: 2505047585 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: --
+		linetest_in: --
+
+--- 20M
+	ch0
+		pcmout_bert: --
+		linetest_in: 2502651384 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: --
+		linetest_in: --
+	ch2
+		pcmout_bert: --
+		linetest_in: 2503129866 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: --
+		linetest_in: --
+	ch4
+		pcmout_bert: --
+		linetest_in: 2503602320 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: --
+		linetest_in: --
+	ch6
+		pcmout_bert: --
+		linetest_in: 2504072046 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: --
+		linetest_in: --
+	ch8
+		pcmout_bert: --
+		linetest_in: 2504545507 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: --
+		linetest_in: --
+	ch10
+		pcmout_bert: --
+		linetest_in: 2505022709 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: --
+		linetest_in: --
+
+--- 10M
+	ch0
+		pcmout_bert: --
+		linetest_in: 2502660175 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: --
+		linetest_in: --
+	ch2
+		pcmout_bert: --
+		linetest_in: 2503136895 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: --
+		linetest_in: --
+	ch4
+		pcmout_bert: --
+		linetest_in: 2503614528 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: --
+		linetest_in: --
+	ch6
+		pcmout_bert: --
+		linetest_in: 2504096259 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: --
+		linetest_in: --
+	ch8
+		pcmout_bert: --
+		linetest_in: 2504562893 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: --
+		linetest_in: --
+	ch10
+		pcmout_bert: --
+		linetest_in: 2505039419 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: --
+		linetest_in: --
+
+--- 5M
+	ch0
+		pcmout_bert: --
+		linetest_in: 2502691718 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: --
+		linetest_in: --
+	ch2
+		pcmout_bert: --
+		linetest_in: 2503178749 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: --
+		linetest_in: --
+	ch4
+		pcmout_bert: --
+		linetest_in: 2503667533 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: --
+		linetest_in: --
+	ch6
+		pcmout_bert: --
+		linetest_in: 2504156803 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: --
+		linetest_in: --
+	ch8
+		pcmout_bert: --
+		linetest_in: 2504642757 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: --
+		linetest_in: --
+	ch10
+		pcmout_bert: --
+		linetest_in: 2505125132 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: --
+		linetest_in: --
+
+--- 1M
+	ch0
+		pcmout_bert: --
+		linetest_in: 2502660778 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: --
+		linetest_in: --
+	ch2
+		pcmout_bert: --
+		linetest_in: 2503134837 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: --
+		linetest_in: --
+	ch4
+		pcmout_bert: --
+		linetest_in: 2503604062 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: --
+		linetest_in: --
+	ch6
+		pcmout_bert: --
+		linetest_in: 2504076304 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: --
+		linetest_in: --
+	ch8
+		pcmout_bert: --
+		linetest_in: 2504546157 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: --
+		linetest_in: --
+	ch10
+		pcmout_bert: --
+		linetest_in: 2505043170 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: --
+		linetest_in: --
+
+--- 500000
+	ch0
+		pcmout_bert: --
+		linetest_in: 2502662011 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: --
+		linetest_in: --
+	ch2
+		pcmout_bert: --
+		linetest_in: 2503150739 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: --
+		linetest_in: --
+	ch4
+		pcmout_bert: --
+		linetest_in: 2503629462 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: --
+		linetest_in: --
+	ch6
+		pcmout_bert: --
+		linetest_in: 2504104805 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: --
+		linetest_in: --
+	ch8
+		pcmout_bert: --
+		linetest_in: 2504589119 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: --
+		linetest_in: --
+	ch10
+		pcmout_bert: --
+		linetest_in: 2505050390 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: --
+		linetest_in: --
+
+--- 250000
+	ch0
+		pcmout_bert: --
+		linetest_in: 2502704472 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: --
+		linetest_in: --
+	ch2
+		pcmout_bert: --
+		linetest_in: 2503182738 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: --
+		linetest_in: --
+	ch4
+		pcmout_bert: --
+		linetest_in: 2503664187 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: --
+		linetest_in: --
+	ch6
+		pcmout_bert: --
+		linetest_in: 2504142087 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: --
+		linetest_in: --
+	ch8
+		pcmout_bert: --
+		linetest_in: 2504618237 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: --
+		linetest_in: --
+	ch10
+		pcmout_bert: --
+		linetest_in: 2505082650 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: --
+		linetest_in: --
+
+--- 100000
+	ch0
+		pcmout_bert: --
+		linetest_in: 2502678734 bits/0 errs, sync pass, noninverted
+	ch1
+		pcmout_bert: --
+		linetest_in: --
+	ch2
+		pcmout_bert: --
+		linetest_in: 2503178273 bits/0 errs, sync pass, noninverted
+	ch3
+		pcmout_bert: --
+		linetest_in: --
+	ch4
+		pcmout_bert: --
+		linetest_in: 2503662092 bits/0 errs, sync pass, noninverted
+	ch5
+		pcmout_bert: --
+		linetest_in: --
+	ch6
+		pcmout_bert: --
+		linetest_in: 2504143637 bits/0 errs, sync pass, noninverted
+	ch7
+		pcmout_bert: --
+		linetest_in: --
+	ch8
+		pcmout_bert: --
+		linetest_in: 2504626835 bits/0 errs, sync pass, noninverted
+	ch9
+		pcmout_bert: --
+		linetest_in: --
+	ch10
+		pcmout_bert: --
+		linetest_in: 2505101249 bits/0 errs, sync pass, noninverted
+	ch11
+		pcmout_bert: --
+		linetest_in: --
+
+
+======= bert_test_6r =======
+auto polarity on, data polarity 0
+
+--- 50M
+	ch0
+		pcmout_bert: --
+		linetest_in: --
+	ch1
+		pcmout_bert: --
+		linetest_in: 2502635818 bits/0 errs, sync pass, inverted
+	ch2
+		pcmout_bert: --
+		linetest_in: --
+	ch3
+		pcmout_bert: --
+		linetest_in: 2503119463 bits/0 errs, sync pass, inverted
+	ch4
+		pcmout_bert: --
+		linetest_in: --
+	ch5
+		pcmout_bert: --
+		linetest_in: 2503596591 bits/0 errs, sync pass, inverted
+	ch6
+		pcmout_bert: --
+		linetest_in: --
+	ch7
+		pcmout_bert: --
+		linetest_in: 2504067120 bits/0 errs, sync pass, inverted
+	ch8
+		pcmout_bert: --
+		linetest_in: --
+	ch9
+		pcmout_bert: --
+		linetest_in: 2504532438 bits/0 errs, sync pass, inverted
+	ch10
+		pcmout_bert: --
+		linetest_in: --
+	ch11
+		pcmout_bert: --
+		linetest_in: 2505002825 bits/0 errs, sync pass, inverted
+
+--- 45M
+	ch0
+		pcmout_bert: --
+		linetest_in: --
+	ch1
+		pcmout_bert: --
+		linetest_in: 2502702110 bits/0 errs, sync pass, inverted
+	ch2
+		pcmout_bert: --
+		linetest_in: --
+	ch3
+		pcmout_bert: --
+		linetest_in: 2503183748 bits/0 errs, sync pass, inverted
+	ch4
+		pcmout_bert: --
+		linetest_in: --
+	ch5
+		pcmout_bert: --
+		linetest_in: 2503666140 bits/0 errs, sync pass, inverted
+	ch6
+		pcmout_bert: --
+		linetest_in: --
+	ch7
+		pcmout_bert: --
+		linetest_in: 2504162839 bits/0 errs, sync pass, inverted
+	ch8
+		pcmout_bert: --
+		linetest_in: --
+	ch9
+		pcmout_bert: --
+		linetest_in: 2504656595 bits/0 errs, sync pass, inverted
+	ch10
+		pcmout_bert: --
+		linetest_in: --
+	ch11
+		pcmout_bert: --
+		linetest_in: 2505127844 bits/0 errs, sync pass, inverted
+
+--- 40M
+	ch0
+		pcmout_bert: --
+		linetest_in: --
+	ch1
+		pcmout_bert: --
+		linetest_in: 2502651260 bits/0 errs, sync pass, inverted
+	ch2
+		pcmout_bert: --
+		linetest_in: --
+	ch3
+		pcmout_bert: --
+		linetest_in: 2503128421 bits/0 errs, sync pass, inverted
+	ch4
+		pcmout_bert: --
+		linetest_in: --
+	ch5
+		pcmout_bert: --
+		linetest_in: 2503603296 bits/0 errs, sync pass, inverted
+	ch6
+		pcmout_bert: --
+		linetest_in: --
+	ch7
+		pcmout_bert: --
+		linetest_in: 2504083189 bits/0 errs, sync pass, inverted
+	ch8
+		pcmout_bert: --
+		linetest_in: --
+	ch9
+		pcmout_bert: --
+		linetest_in: 2504560122 bits/0 errs, sync pass, inverted
+	ch10
+		pcmout_bert: --
+		linetest_in: --
+	ch11
+		pcmout_bert: --
+		linetest_in: 2505044160 bits/0 errs, sync pass, inverted
+
+--- 30M
+	ch0
+		pcmout_bert: --
+		linetest_in: --
+	ch1
+		pcmout_bert: --
+		linetest_in: 2502636567 bits/0 errs, sync pass, inverted
+	ch2
+		pcmout_bert: --
+		linetest_in: --
+	ch3
+		pcmout_bert: --
+		linetest_in: 2503110969 bits/0 errs, sync pass, inverted
+	ch4
+		pcmout_bert: --
+		linetest_in: --
+	ch5
+		pcmout_bert: --
+		linetest_in: 2503579813 bits/0 errs, sync pass, inverted
+	ch6
+		pcmout_bert: --
+		linetest_in: --
+	ch7
+		pcmout_bert: --
+		linetest_in: 2504051361 bits/0 errs, sync pass, inverted
+	ch8
+		pcmout_bert: --
+		linetest_in: --
+	ch9
+		pcmout_bert: --
+		linetest_in: 2504522969 bits/0 errs, sync pass, inverted
+	ch10
+		pcmout_bert: --
+		linetest_in: --
+	ch11
+		pcmout_bert: --
+		linetest_in: 2504993272 bits/0 errs, sync pass, inverted
+
+--- 20M
+	ch0
+		pcmout_bert: --
+		linetest_in: --
+	ch1
+		pcmout_bert: --
+		linetest_in: 2502686297 bits/0 errs, sync pass, inverted
+	ch2
+		pcmout_bert: --
+		linetest_in: --
+	ch3
+		pcmout_bert: --
+		linetest_in: 2503162732 bits/0 errs, sync pass, inverted
+	ch4
+		pcmout_bert: --
+		linetest_in: --
+	ch5
+		pcmout_bert: --
+		linetest_in: 2503634704 bits/0 errs, sync pass, inverted
+	ch6
+		pcmout_bert: --
+		linetest_in: --
+	ch7
+		pcmout_bert: --
+		linetest_in: 2504115907 bits/0 errs, sync pass, inverted
+	ch8
+		pcmout_bert: --
+		linetest_in: --
+	ch9
+		pcmout_bert: --
+		linetest_in: 2504595563 bits/0 errs, sync pass, inverted
+	ch10
+		pcmout_bert: --
+		linetest_in: --
+	ch11
+		pcmout_bert: --
+		linetest_in: 2505085772 bits/0 errs, sync pass, inverted
+
+--- 10M
+	ch0
+		pcmout_bert: --
+		linetest_in: --
+	ch1
+		pcmout_bert: --
+		linetest_in: 2502661636 bits/0 errs, sync pass, inverted
+	ch2
+		pcmout_bert: --
+		linetest_in: --
+	ch3
+		pcmout_bert: --
+		linetest_in: 2503153873 bits/0 errs, sync pass, inverted
+	ch4
+		pcmout_bert: --
+		linetest_in: --
+	ch5
+		pcmout_bert: --
+		linetest_in: 2503644666 bits/0 errs, sync pass, inverted
+	ch6
+		pcmout_bert: --
+		linetest_in: --
+	ch7
+		pcmout_bert: --
+		linetest_in: 2504137859 bits/0 errs, sync pass, inverted
+	ch8
+		pcmout_bert: --
+		linetest_in: --
+	ch9
+		pcmout_bert: --
+		linetest_in: 2504637729 bits/0 errs, sync pass, inverted
+	ch10
+		pcmout_bert: --
+		linetest_in: --
+	ch11
+		pcmout_bert: --
+		linetest_in: 2505126371 bits/0 errs, sync pass, inverted
+
+--- 5M
+	ch0
+		pcmout_bert: --
+		linetest_in: --
+	ch1
+		pcmout_bert: --
+		linetest_in: 2502636801 bits/0 errs, sync pass, inverted
+	ch2
+		pcmout_bert: --
+		linetest_in: --
+	ch3
+		pcmout_bert: --
+		linetest_in: 2503113455 bits/0 errs, sync pass, inverted
+	ch4
+		pcmout_bert: --
+		linetest_in: --
+	ch5
+		pcmout_bert: --
+		linetest_in: 2503584978 bits/0 errs, sync pass, inverted
+	ch6
+		pcmout_bert: --
+		linetest_in: --
+	ch7
+		pcmout_bert: --
+		linetest_in: 2504055422 bits/0 errs, sync pass, inverted
+	ch8
+		pcmout_bert: --
+		linetest_in: --
+	ch9
+		pcmout_bert: --
+		linetest_in: 2504556698 bits/0 errs, sync pass, inverted
+	ch10
+		pcmout_bert: --
+		linetest_in: --
+	ch11
+		pcmout_bert: --
+		linetest_in: 2505032624 bits/0 errs, sync pass, inverted
+
+--- 1M
+	ch0
+		pcmout_bert: --
+		linetest_in: --
+	ch1
+		pcmout_bert: --
+		linetest_in: 2502667206 bits/0 errs, sync pass, inverted
+	ch2
+		pcmout_bert: --
+		linetest_in: --
+	ch3
+		pcmout_bert: --
+		linetest_in: 2503149488 bits/0 errs, sync pass, inverted
+	ch4
+		pcmout_bert: --
+		linetest_in: --
+	ch5
+		pcmout_bert: --
+		linetest_in: 2503648674 bits/0 errs, sync pass, inverted
+	ch6
+		pcmout_bert: --
+		linetest_in: --
+	ch7
+		pcmout_bert: --
+		linetest_in: 2504120367 bits/0 errs, sync pass, inverted
+	ch8
+		pcmout_bert: --
+		linetest_in: --
+	ch9
+		pcmout_bert: --
+		linetest_in: 2504600931 bits/0 errs, sync pass, inverted
+	ch10
+		pcmout_bert: --
+		linetest_in: --
+	ch11
+		pcmout_bert: --
+		linetest_in: 2505075779 bits/0 errs, sync pass, inverted
+
+--- 500000
+	ch0
+		pcmout_bert: --
+		linetest_in: --
+	ch1
+		pcmout_bert: --
+		linetest_in: 2502700864 bits/0 errs, sync pass, inverted
+	ch2
+		pcmout_bert: --
+		linetest_in: --
+	ch3
+		pcmout_bert: --
+		linetest_in: 2503170408 bits/0 errs, sync pass, inverted
+	ch4
+		pcmout_bert: --
+		linetest_in: --
+	ch5
+		pcmout_bert: --
+		linetest_in: 2503652512 bits/0 errs, sync pass, inverted
+	ch6
+		pcmout_bert: --
+		linetest_in: --
+	ch7
+		pcmout_bert: --
+		linetest_in: 2504130164 bits/0 errs, sync pass, inverted
+	ch8
+		pcmout_bert: --
+		linetest_in: --
+	ch9
+		pcmout_bert: --
+		linetest_in: 2504610827 bits/0 errs, sync pass, inverted
+	ch10
+		pcmout_bert: --
+		linetest_in: --
+	ch11
+		pcmout_bert: --
+		linetest_in: 2505086641 bits/0 errs, sync pass, inverted
+
+--- 250000
+	ch0
+		pcmout_bert: --
+		linetest_in: --
+	ch1
+		pcmout_bert: --
+		linetest_in: 2502703774 bits/0 errs, sync pass, inverted
+	ch2
+		pcmout_bert: --
+		linetest_in: --
+	ch3
+		pcmout_bert: --
+		linetest_in: 2503195355 bits/0 errs, sync pass, inverted
+	ch4
+		pcmout_bert: --
+		linetest_in: --
+	ch5
+		pcmout_bert: --
+		linetest_in: 2503674231 bits/0 errs, sync pass, inverted
+	ch6
+		pcmout_bert: --
+		linetest_in: --
+	ch7
+		pcmout_bert: --
+		linetest_in: 2504145529 bits/0 errs, sync pass, inverted
+	ch8
+		pcmout_bert: --
+		linetest_in: --
+	ch9
+		pcmout_bert: --
+		linetest_in: 2504623294 bits/0 errs, sync pass, inverted
+	ch10
+		pcmout_bert: --
+		linetest_in: --
+	ch11
+		pcmout_bert: --
+		linetest_in: 2505095810 bits/0 errs, sync pass, inverted
+
+--- 100000
+	ch0
+		pcmout_bert: --
+		linetest_in: --
+	ch1
+		pcmout_bert: --
+		linetest_in: 2502817442 bits/0 errs, sync pass, inverted
+	ch2
+		pcmout_bert: --
+		linetest_in: --
+	ch3
+		pcmout_bert: --
+		linetest_in: 2503302129 bits/0 errs, sync pass, inverted
+	ch4
+		pcmout_bert: --
+		linetest_in: --
+	ch5
+		pcmout_bert: --
+		linetest_in: 2503782513 bits/0 errs, sync pass, inverted
+	ch6
+		pcmout_bert: --
+		linetest_in: --
+	ch7
+		pcmout_bert: --
+		linetest_in: 2504262208 bits/0 errs, sync pass, inverted
+	ch8
+		pcmout_bert: --
+		linetest_in: --
+	ch9
+		pcmout_bert: --
+		linetest_in: 2504734441 bits/0 errs, sync pass, inverted
+	ch10
+		pcmout_bert: --
+		linetest_in: --
+	ch11
+		pcmout_bert: --
+		linetest_in: 2505202403 bits/0 errs, sync pass, inverted
+
+
+
+---------------------------------------------------------------------
+--- data polarities:
+bert_test_8:   data polarity 0,   inv data issue (inverted/noninverted varies)
+
+bert_test_7:   data polarity 0,   ---
+
+bert_test_8 PN6:   data polarity 0,   noninverted
+
+bert_test_7 PN6:   data polarity 0,   ---
+
+bert_test_8r:   data polarity 0,   noninverted
+
+bert_test_6:   data polarity 1,   noninverted
+
+bert_test_6r:   data polarity 0,   inverted
+
+
+--- issues:
+bert_test_8
+	rate = 100000 :    ch0 (errs), ch10 (errs)
+
+bert_test_7
+	rate = 100000 :    ch0 (errs), ch10 (errs)
+
+bert_test_8 PN6
+	rate = 50M :    ch8 (errs), ch9 (errs)
+	rate = 100000 :    ch0 (errs), ch10 (errs)
+
+bert_test_7 PN6
+	rate = 100000 :    ch0 (errs), ch10 (errs)
+
+bert_test_8r
+	rate = 100000 :    ch5 (errs), ch11 (errs)
+

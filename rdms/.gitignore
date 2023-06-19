@@ -1,0 +1,9 @@
+*.bin
+**/*.bin
+**/test.txt
+**/test.py
+**/test.cpp
+**/test.c
+*.o
+*.exe
+*.out
